@@ -1,0 +1,14 @@
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\bin\Debug\net6.0\LetterTracker.exe
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\bin\Debug\net6.0\LetterTracker.deps.json
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\bin\Debug\net6.0\LetterTracker.runtimeconfig.json
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\bin\Debug\net6.0\LetterTracker.dll
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\bin\Debug\net6.0\LetterTracker.pdb
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.AssemblyInfoInputs.cache
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.AssemblyInfo.cs
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.csproj.CoreCompileInputs.cache
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.dll
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\refint\LetterTracker.dll
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.pdb
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\LetterTracker.genruntimeconfig.cache
+C:\Users\amina\Documents\Projekti\LetterTracker\LetterTracker\obj\Debug\net6.0\ref\LetterTracker.dll
